@@ -1,8 +1,5 @@
 package builder;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import decorator.Ingrediente;
 import decorator.Lanche;
 import singleton.EstoqueSingleton;
